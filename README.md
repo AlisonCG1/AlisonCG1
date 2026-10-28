@@ -1,4 +1,4 @@
-# Hi, I'm Alison 👋
+# Hi, I'm Alison 
 
 ### Data Engineer | GTM Data & Revenue Operations Analytics
 
@@ -8,7 +8,7 @@ My focus is on **data engineering, analytics engineering, and GTM data systems**
 
 I'm currently developing personal projects that demonstrate end-to-end data engineering, from ingestion and transformation to data modeling and analytics.
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 1. RevOps Intelligence Platform
 
@@ -18,7 +18,7 @@ An end-to-end data platform designed to integrate revenue data and transform it 
 - **Technologies:** Python, Dagster, DuckDB, Streamlit, Pandas
 - **Goal:** Build a reproducible pipeline and analytics dashboard using personal business data and/or synthetic data.
 
-🔗 Repository: Add your public repository link here
+🔗 
 
 ### 2. Music & Marketing Audit
 
@@ -27,7 +27,7 @@ A data analytics project exploring business and marketing questions through data
 - **Focus:** Data cleaning, exploratory analysis, SQL/Python, and reporting
 - **Technologies:** Python, Pandas, SQL, and visualization tools
 
-🔗 Repository: Add your public repository link here
+🔗 
 
 ### 3. More Projects Coming Soon
 
