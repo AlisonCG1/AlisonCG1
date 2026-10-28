@@ -1,18 +1,78 @@
-# 💫 About Me:
-Working on personal projects to keep up with Data Science tools and libraries<br>
+# Hi, I'm Alison 👋
 
+### Data Engineer | GTM Data & Revenue Operations Analytics
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alison-cordoba/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@alisoncordoba) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/_itsalatingirl) 
+I build data pipelines and analytics solutions that turn raw data into reliable, actionable insights.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AlisonCG1&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AlisonCG1&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlisonCG1&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+My focus is on **data engineering, analytics engineering, and GTM data systems** — connecting APIs and business tools, transforming data, and making revenue metrics easier to understand.
+
+I'm currently developing personal projects that demonstrate end-to-end data engineering, from ingestion and transformation to data modeling and analytics.
+
+## 🚀 Featured Projects
+
+### 1. RevOps Intelligence Platform
+
+An end-to-end data platform designed to integrate revenue data and transform it into useful business intelligence.
+
+- **Focus:** API integration, ETL/ELT, data modeling, orchestration, and analytics
+- **Technologies:** Python, Dagster, DuckDB, Streamlit, Pandas
+- **Goal:** Build a reproducible pipeline and analytics dashboard using personal business data and/or synthetic data.
+
+🔗 Repository: Add your public repository link here
+
+### 2. Music & Marketing Audit
+
+A data analytics project exploring business and marketing questions through data processing, analysis, and visualization.
+
+- **Focus:** Data cleaning, exploratory analysis, SQL/Python, and reporting
+- **Technologies:** Python, Pandas, SQL, and visualization tools
+
+🔗 Repository: Add your public repository link here
+
+### 3. More Projects Coming Soon
+
+I'm expanding my portfolio with projects focused on data pipelines, data quality, analytics engineering, and cloud data platforms.
+
+## 🛠️ Technical Skills
+
+**Languages & data manipulation**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Data engineering & analytics**
+
+![Dagster](https://img.shields.io/badge/Dagster-4F43DD?style=flat-square)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+
+**Databases & tools**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+**Additional experience:** Snowflake, AWS, REST APIs, and data visualization.
+
+## 💼 Professional Interests
+
+- Building reliable and maintainable data pipelines
+- Designing data models and analytics-ready datasets
+- Integrating GTM and revenue operations systems
+- Improving data quality and reporting reliability
+- Applying automation to solve practical business problems
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/alison-cordoba/)
+[![Medium](https://img.shields.io/badge/Medium-Read%20My%20Writing-000000?style=flat-square&logo=medium)](https://medium.com/@alisoncordoba)
+[![X](https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x)](https://x.com/_itsalatingirl)
+
+📍 Nashville, Tennessee
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AlisonCG1&icon=1&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+*Building practical data engineering projects, one pipeline at a time.*
